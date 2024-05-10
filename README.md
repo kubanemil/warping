@@ -1,4 +1,4 @@
-# Spacetime Curvature Visualization
+# 2D Spacetime Curvature Visualization
 
 This project visualizes the curvature of spacetime around a massive object using a Schwarzschild metric approximation. The program generates a series of plots that depict how spacetime is warped by varying Schwarzschild radii, then combines these images into a GIF to illustrate the dynamic effect of increasing mass on spacetime curvature.
 
@@ -32,6 +32,8 @@ To run the project, simply execute the script `main.py`. This will generate a se
 ## Output
 
 The final output is a GIF animation that shows how spacetime curvature intensifies as the Schwarzschild radius increases, representing an increasing mass of the central object.
+
+![GIF](./spacetime_curvature.gif "Spacetime curvature")
 
 ## Contributions
 
